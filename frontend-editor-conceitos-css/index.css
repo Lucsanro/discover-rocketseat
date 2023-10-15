@@ -1,0 +1,17 @@
+body {
+  background: turquoise;
+}
+
+#unico-1 {
+  color: blue;
+}
+
+p.paragrafo {
+  color: green;
+}
+
+
+p {
+  color: red;
+}
+
