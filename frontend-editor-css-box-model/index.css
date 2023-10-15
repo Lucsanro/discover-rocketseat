@@ -1,0 +1,20 @@
+header {
+  border: 1px solid red;
+  padding: 60px;
+}
+
+h1 {
+  border: 1px solid blue;
+  height: 60px;
+}
+
+p {
+  border: 1px solid green;
+  margin: 20px;
+}
+
+span {
+  border: 1px solid purple;
+  display: block;
+  margin: 10px;
+}
