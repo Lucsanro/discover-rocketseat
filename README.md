@@ -6,3 +6,5 @@ Repositório destinado aos estudos e exercícios do curso Discover da Rocketseat
 - Módulo 2: Aprendendo a aprender
 
 - Módulo 3: Iniciando o HTML e CSS
+
+- Módulo 4: Avançando o HTML e CSS
