@@ -1,4 +1,4 @@
-# discover-rocketseat
+# Discover Rocketseat
 Repositório destinado aos estudos e exercícios do curso Discover da Rocketseat.
 
 - Módulo 1: Primeiros passos
